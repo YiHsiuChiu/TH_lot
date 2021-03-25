@@ -16,3 +16,6 @@ npm install
 ```
 
 ## 執行方法
+1. 設定mqtt broker之url
+2. 將樹梅派gpio 4(pin 7)拉出接一5v led正極
+3. 輸入sudo node TH_lot.js
