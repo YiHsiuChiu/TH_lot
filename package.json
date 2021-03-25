@@ -1,0 +1,25 @@
+{
+  "name": "TH_lot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TH_lot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YiHsiuChiu/TH_lot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YiHsiuChiu/TH_lot/issues"
+  },
+  "homepage": "https://github.com/YiHsiuChiu/TH_lot#readme",
+  "dependencies": {
+    "@abandonware/bleno": "^0.5.1-3",
+    "mqtt": "^4.2.6",
+    "onoff": "^6.0.1"
+  }
+}
